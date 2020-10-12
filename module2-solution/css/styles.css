@@ -7,6 +7,22 @@ h1 {
   margin-bottom: 15px;
 }
 
+h2 {
+  border:1px solid black;
+}
+
+#h2-1{
+  background-color:pink;
+}
+
+#h2-1{
+  background-color:red;
+}
+
+#h2-1{
+  background-color:yellow;
+}
+
 .section{
   background-color:gray;
   border:1px solid black;
