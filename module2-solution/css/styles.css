@@ -29,14 +29,27 @@ h2 {
 
 p {
   float:left;
+  padding:10px;
 }
 
 .section{
   background-color:gray;
   border:1px solid black;
   margin:10px;
+  overflow: auto; 
 }
 
+#section1{
+  width:33%;
+}
+
+#section2{
+  width:33%;
+}
+
+#section3{
+  width:33%;
+}
 
 /********** Desktop **********/
 @media (min-width: 992px) {
