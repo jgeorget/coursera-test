@@ -27,6 +27,10 @@ h2 {
   background-color:yellow;
 }
 
+p {
+  float:left;
+}
+
 .section{
   background-color:gray;
   border:1px solid black;
