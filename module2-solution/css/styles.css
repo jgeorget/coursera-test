@@ -9,6 +9,8 @@ h1 {
 
 h2 {
   border:1px solid black;
+  width:200px;
+  align:right;
 }
 
 #h2-1{
