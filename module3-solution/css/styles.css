@@ -67,27 +67,22 @@ h3 {
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
 }
-
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 2px solid black;
 }
 
-
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
-
   .navbar-brand h1 { /* Restaurant name */
     font-size: 5vw; /* 1vw = 1% of viewport width */
     padding-left: 10px;
   }
-
   .container {
     height: auto;
   }
-
   .content {
     margin: auto;
-    width: 40%;
+    width: 80%;
   }
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.2em;
@@ -95,5 +90,4 @@ h3 {
     background-color: white;
     border: 3px solid black;
   }
-
 }
