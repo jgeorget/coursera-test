@@ -5,11 +5,11 @@ body {
   font-weight: bold;
 }
 
-h2{
+#main-content > div > h2 {
   font-size: 1.5em;
   color: black;
-  font-family: 'Oxygen', sans-serif;
   text-align: center;
+  font-family: 'Oxygen', sans-serif;
   font-weight: 700;
   margin-top: 0px;
   margin-bottom: 45px;
@@ -79,9 +79,9 @@ h3 {
     font-size: 5vw; /* 1vw = 1% of viewport width */
     padding-left: 10px;
   }
-.navbar-collapse {
-  border: 0px transparent;
-}
+  .navbar-collapse {
+    border: 0px transparent;
+  }
   .content {
     margin: auto;
     width: 80%;
@@ -90,7 +90,7 @@ h3 {
     font-size: 1.2em;
     text-align: center;
     background-color: white;
-    border: 3px solid black;
+    border: 2px solid black;
     padding-top: 0px;
   }
 }
